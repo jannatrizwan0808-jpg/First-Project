@@ -1,0 +1,6 @@
+Cluster,Segment,Customers,Recency_Days,Repeat_Rate,Avg_Spending,Items_Per_Order,Freight_Share,Delivery_Days,Delivery_Delay_Days,Share_%
+0,Late-delivery customers,16207,245.22,0.0,149.15,1.01,0.18,25.49,0.72,17.36
+1,Repeat customers,2801,220.29,1.0,260.05,1.21,0.2,12.34,-11.9,3.0
+2,"Low-value, freight-heavy",25350,237.3,0.0,35.36,1.01,0.35,10.77,-13.01,27.16
+3,"Fast-delivery, mid-value buyers",40649,236.61,0.0,182.76,1.0,0.13,8.86,-14.3,43.54
+4,Multi-item basket buyers,8343,238.26,0.0,209.63,2.43,0.23,11.07,-12.95,8.94
